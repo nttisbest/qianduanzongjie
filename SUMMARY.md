@@ -50,6 +50,7 @@
 * [vue-router](vue/vue-router.md)
     * [动态路由匹配](vue/动态路由匹配.md)
     * [侦听器](vue/侦听器.md)
+    * [doller_router和route](vue/doller_router和route.md)
 * [组建](vue/组建.md)
     * [vue-components的data是一个函数](vue/vue-components的data是一个函数.md)
 * [异步函数](vue/异步函数.md)
