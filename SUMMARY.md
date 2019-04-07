@@ -19,6 +19,7 @@
         * [变量的重新声明]
         * [变量的值是另一个变量的值]
     * [json方法](javascript/json.md)
+* [Object.freeze](javascript/Object.freeze.md)
 
 -----
 * nodejs
@@ -30,7 +31,7 @@
     * [git](git/git.md)
 * [vue](vue/vue.md)
     * [指令](vue/指令.md)
-        * [v-text指令](vue/v-text指令.md)
+        * [v-text](vue/v-text指令.md)
         * [v-html](vue/v-html指令.md)
         * [v-on](vue/v-on指令.md)
         * [v-bind](vue/v-bind指令.md)
@@ -58,4 +59,9 @@
     * [async和await](vue/async和await.md)
 * [ref](vue/ref.md)
 * [钩子函数](vue/钩子函数.md)
+* [网页优化](优化/网页优化.md)
+* [webpack](vue/webpack.md)
+    * [NPM Scripts脚本](webpack/NPMScripts.md)
+    * [自己搭建脚手架](webpack/自己搭建脚手架.md)
+    * [webpack-dev-server](webpack/webpack-dev-server.md)
 
